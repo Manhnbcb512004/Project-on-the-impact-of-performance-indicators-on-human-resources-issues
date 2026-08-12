@@ -1,0 +1,9 @@
+E-commerce Recommendation & Revenue Optimization Analytics
+
+Dự án phân tích hiệu quả hệ thống Product Recommendation trong E-commerce, được xây dựng theo quy trình SQL → Data Modeling → DAX → Power BI → Business Insights. Mục tiêu là đánh giá mức độ hiệu quả của recommendation engine không chỉ ở góc độ tương tác và chuyển đổi, mà còn ở giá trị doanh thu và cơ hội tăng trưởng.
+
+Dữ liệu được tổ chức xoay quanh các nhóm chính gồm Recommendation Performance, Product & Brand Performance, Customer Value và Shopping Context. Trên Power BI, dự án xây dựng hệ thống KPI và dashboard để theo dõi Clicks, Recommendations, Conversion Rate, High Recommendation Rate, Potential Revenue, Estimated Revenue, AOV và Revenue Lost Gap, đồng thời phân tích sự khác biệt theo brand, rating, customer tier, price, geography và season.
+
+Hiện tại dự án đã hoàn thiện phần Recommendation Performance và Revenue Opportunity, trong đó dashboard bước đầu cho thấy 22K clicks, 1,018 recommendations, conversion rate 42,13%, potential revenue khoảng 4,1 tỷ và estimated revenue khoảng 1,76 tỷ. Các kết quả này được sử dụng làm cơ sở để xây dựng các giả thuyết về hiệu quả recommendation, chất lượng sản phẩm, hành vi khách hàng và khoảng cách doanh thu, sau đó tiếp tục kiểm chứng ở các lớp phân tích sâu hơn.
+
+Về mặt kỹ thuật, dự án tập trung vào việc xây dựng một quy trình phân tích tương đối hoàn chỉnh: SQL để truy vấn và chuẩn hóa dữ liệu, data modeling để tổ chức các bảng dữ liệu, DAX để xây dựng KPI và Power BI để trực quan hóa và phân tích. Cách tiếp cận này phù hợp với vai trò Data Analyst/Business Data Analyst, nơi Power BI không chỉ được sử dụng để tạo báo cáo mà còn để hỗ trợ business decision-making và phát hiện cơ hội tăng trưởng. Microsoft cũng mô tả vai trò Power BI Data Analyst theo hướng chuẩn bị, mô hình hóa, trực quan hóa và phân tích dữ liệu để tạo ra business value

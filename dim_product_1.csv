@@ -1,0 +1,874 @@
+product_id,brand,price,rating,review_sentiment_score
+1,"Allen Solly Woman",250.00,4.60,0.88
+2,"Allen Solly Woman",300.00,3.50,-0.60
+3,"Allen Solly Woman",400.00,3.60,0.60
+4,"Allen Solly Woman",500.00,3.30,0.40
+5,"Allen Solly Woman",500.00,3.70,-0.30
+6,"Allen Solly Woman",600.00,4.10,0.65
+7,"Allen Solly Woman",10000.00,4.80,0.90
+8,"Allen Solly Woman",10000.00,4.90,0.90
+9,"Allen Solly Woman",10000.00,4.90,0.95
+10,AmazonBasics,400.00,4.60,0.80
+11,AmazonBasics,500.00,3.40,-0.10
+12,AmazonBasics,500.00,3.80,-0.10
+13,AmazonBasics,500.00,4.50,0.80
+14,AmazonBasics,600.00,3.40,-0.10
+15,AmazonBasics,600.00,4.60,0.60
+16,AmazonBasics,600.00,4.80,-0.10
+17,AmazonBasics,700.00,4.70,0.90
+18,AmazonBasics,700.00,5.00,-0.10
+19,AmazonBasics,800.00,4.50,0.70
+20,AmazonBasics,800.00,4.80,0.90
+21,AmazonBasics,800.00,4.90,-0.10
+22,AmazonBasics,900.00,4.90,0.90
+23,AmazonBasics,1000.00,4.90,0.90
+24,AmazonBasics,1100.00,4.90,0.90
+25,AmazonBasics,1200.00,4.90,0.90
+26,AmazonBasics,10000.00,3.50,0.10
+27,Baidyanath,900.00,3.10,-0.30
+28,Biovea,90.00,4.30,0.82
+29,Biovea,100.00,1.00,-1.00
+30,Biovea,100.00,4.70,0.90
+31,Biovea,500.00,4.80,0.90
+32,Biovea,600.00,4.80,0.90
+33,Biovea,700.00,4.80,0.90
+34,Biovea,800.00,4.80,0.90
+35,Biovea,900.00,4.80,0.90
+36,Biovea,1100.00,4.80,0.90
+37,Biovea,1200.00,4.90,0.90
+38,Biovea,1300.00,4.90,0.90
+39,"Dabur Chyawanprash",700.00,4.20,0.40
+40,"Dabur Chyawanprash",800.00,4.10,0.50
+41,"Dabur Chyawanprash",800.00,4.40,0.20
+42,"Dabur Chyawanprash",900.00,4.10,0.60
+43,"Dabur Chyawanprash",1000.00,0.00,-0.70
+44,"Dabur Chyawanprash",1000.00,4.10,0.70
+45,"Dabur Chyawanprash",1200.00,4.00,0.70
+46,"Dabur Chyawanprash",1400.00,4.20,0.70
+47,"Dabur Chyawanprash",1500.00,4.30,0.70
+48,"Dabur Chyawanprash",1800.00,4.40,0.70
+49,Dettol,90.00,4.60,0.90
+50,Dettol,200.00,3.40,0.30
+51,Dettol,200.00,4.20,0.50
+52,Dettol,500.00,1.80,-0.30
+53,Dettol,500.00,3.00,-0.20
+54,Dettol,500.00,4.40,0.70
+55,Dettol,600.00,4.50,0.50
+56,Dettol,800.00,3.90,0.10
+57,Dettol,900.00,5.00,0.95
+58,Dettol,1000.00,4.70,0.75
+59,Dettol,4500.00,3.70,0.40
+60,Dettol,5000.00,4.30,0.50
+61,Dettol,6000.00,4.50,0.60
+62,Dettol,6000.00,4.50,0.70
+63,Dettol,6000.00,4.60,0.60
+64,Dettol,6000.00,4.60,0.70
+65,Dettol,8000.00,4.50,0.85
+66,Dettol,9000.00,4.60,0.90
+67,Dettol,9000.00,4.80,0.90
+68,Dettol,10000.00,4.90,0.90
+69,"Dove Hair",100.00,4.20,0.80
+70,"Dove Hair",400.00,2.60,-0.70
+71,"Dove Hair",3000.00,3.90,0.50
+72,Duroflex,500.00,3.20,-0.10
+73,Duroflex,600.00,3.00,-0.10
+74,Duroflex,600.00,3.40,-0.20
+75,Duroflex,700.00,3.00,-0.10
+76,Duroflex,800.00,2.90,-0.10
+77,Duroflex,900.00,2.80,-0.10
+78,Duroflex,1000.00,2.60,-0.10
+79,Duroflex,1000.00,3.20,-0.50
+80,Duroflex,1100.00,2.10,-0.10
+81,Fastrack,200.00,3.00,-0.40
+82,Fastrack,300.00,2.80,-0.50
+83,Fastrack,400.00,2.60,-0.60
+84,Fastrack,400.00,3.10,-0.50
+85,Fastrack,400.00,3.40,0.20
+86,Fastrack,400.00,3.50,0.60
+87,Fastrack,500.00,2.40,-0.70
+88,Fastrack,600.00,2.20,-0.80
+89,Fastrack,600.00,3.30,0.40
+90,Fastrack,700.00,2.00,-0.90
+91,Fastrack,800.00,1.70,-0.90
+92,Fastrack,800.00,4.00,0.50
+93,Fastrack,1000.00,4.80,0.70
+94,Fastrack,7000.00,4.60,0.75
+95,Fastrack,8000.00,4.80,0.80
+96,Fastrack,8000.00,4.80,0.85
+97,Fastrack,8000.00,4.80,0.90
+98,"Flying Machine",200.00,4.10,0.70
+99,"Flying Machine",280.00,4.50,0.85
+100,"Flying Machine",280.00,4.80,0.92
+101,"Flying Machine",300.00,2.10,-0.70
+102,"Flying Machine",300.00,2.10,-0.60
+103,"Flying Machine",300.00,4.30,0.50
+104,"Flying Machine",300.00,4.40,0.80
+105,"Flying Machine",300.00,4.60,0.80
+106,"Flying Machine",300.00,4.90,0.86
+107,"Flying Machine",400.00,2.50,-0.60
+108,"Flying Machine",400.00,2.60,-0.60
+109,"Flying Machine",400.00,2.60,-0.50
+110,"Flying Machine",400.00,2.70,-0.60
+111,"Flying Machine",400.00,2.80,-0.60
+112,"Flying Machine",400.00,3.00,-0.60
+113,"Flying Machine",400.00,3.00,0.20
+114,"Flying Machine",400.00,4.20,0.70
+115,"Flying Machine",500.00,2.00,-0.70
+116,"Flying Machine",500.00,2.10,-0.70
+117,"Flying Machine",500.00,2.20,-0.70
+118,"Flying Machine",500.00,2.40,-0.70
+119,"Flying Machine",500.00,2.90,-0.10
+120,"Flying Machine",500.00,3.80,0.30
+121,"Flying Machine",500.00,4.40,0.60
+122,"Flying Machine",500.00,4.60,0.80
+123,"Flying Machine",500.00,4.90,0.90
+124,"Flying Machine",600.00,4.10,0.50
+125,"Flying Machine",600.00,4.50,0.70
+126,"Flying Machine",600.00,4.70,0.85
+127,"Flying Machine",700.00,3.60,0.20
+128,"Flying Machine",700.00,3.80,0.00
+129,"Flying Machine",700.00,4.20,0.40
+130,"Flying Machine",700.00,4.60,0.80
+131,"Flying Machine",700.00,4.70,0.80
+132,"Flying Machine",800.00,3.60,0.15
+133,"Flying Machine",800.00,4.50,0.55
+134,"Flying Machine",800.00,4.60,0.80
+135,"Flying Machine",800.00,4.70,0.80
+136,"Flying Machine",800.00,4.80,0.86
+137,"Flying Machine",900.00,4.00,0.70
+138,"Flying Machine",900.00,4.20,0.80
+139,"Flying Machine",900.00,4.40,0.68
+140,"Flying Machine",900.00,4.40,0.80
+141,"Flying Machine",900.00,4.70,0.88
+142,"Flying Machine",900.00,4.80,0.80
+143,"Flying Machine",1000.00,4.90,0.90
+144,"Flying Machine",1500.00,3.80,-0.10
+145,"Flying Machine",1500.00,3.90,-0.10
+146,"Flying Machine",2000.00,3.20,-0.20
+147,"Flying Machine",2500.00,4.50,0.70
+148,"Forest Essentials",200.00,2.20,-0.20
+149,"Forest Essentials",500.00,3.10,0.00
+150,"Forest Essentials",500.00,4.70,0.90
+151,"Forest Essentials",500.00,4.80,0.80
+152,"Forest Essentials",600.00,4.70,0.90
+153,"Forest Essentials",700.00,4.70,0.90
+154,"Forest Essentials",700.00,4.90,0.90
+155,"Forest Essentials",750.00,4.70,0.60
+156,"Forest Essentials",800.00,4.80,0.90
+157,"Forest Essentials",900.00,4.20,0.68
+158,"Forest Essentials",900.00,4.80,0.90
+159,"Forest Essentials",900.00,4.90,0.90
+160,"Forest Essentials",1000.00,4.80,0.90
+161,"Forest Essentials",1100.00,4.90,0.90
+162,"Forest Essentials",1200.00,4.90,0.90
+163,"Forest Essentials",1800.00,4.40,0.78
+164,"Godrej Interio",300.00,3.80,0.20
+165,"Godrej Interio",600.00,3.50,0.30
+166,"Godrej Interio",700.00,3.60,0.30
+167,"Godrej Interio",800.00,2.70,0.30
+168,"Godrej Interio",900.00,2.60,0.30
+169,"Godrej Interio",900.00,3.60,0.20
+170,"Godrej Interio",1000.00,2.20,0.30
+171,"Godrej Interio",1000.00,4.60,0.85
+172,"Godrej Interio",1100.00,2.00,0.30
+173,"Godrej Interio",1200.00,2.00,0.30
+174,"Godrej Interio",1400.00,4.70,0.75
+175,"Godrej Interio",10000.00,4.50,0.90
+176,"Head & Shoulders",100.00,3.70,0.50
+177,"Head & Shoulders",500.00,2.60,-0.10
+178,"Head & Shoulders",500.00,2.70,-0.10
+179,"Head & Shoulders",900.00,4.00,0.70
+180,"Head & Shoulders",4000.00,3.80,0.20
+181,"Head & Shoulders",4000.00,3.80,0.30
+182,"Head & Shoulders",5000.00,3.80,0.30
+183,"Head Hunters",100.00,2.60,-0.60
+184,"Head Hunters",100.00,2.80,-0.50
+185,"Head Hunters",200.00,4.20,0.80
+186,"Head Hunters",300.00,2.40,-0.70
+187,"Head Hunters",300.00,4.60,0.85
+188,"Head Hunters",400.00,4.70,0.80
+189,"Head Hunters",430.00,4.60,0.78
+190,"Head Hunters",500.00,4.10,0.75
+191,"Head Hunters",500.00,4.20,0.70
+192,"Head Hunters",500.00,4.40,0.80
+193,"Head Hunters",500.00,4.60,0.80
+194,"Head Hunters",500.00,4.80,0.80
+195,"Head Hunters",600.00,3.20,0.10
+196,"Head Hunters",600.00,4.90,0.90
+197,"Head Hunters",700.00,5.00,0.90
+198,"Head Hunters",800.00,4.60,0.70
+199,"Head Hunters",800.00,5.00,0.90
+200,"Head Hunters",900.00,5.00,0.90
+201,"Head Hunters",1000.00,3.10,0.20
+202,"Head Hunters",1000.00,4.40,0.20
+203,"Head Hunters",1000.00,4.70,0.80
+204,"Head Hunters",1000.00,4.80,0.60
+205,"Head Hunters",1800.00,4.50,0.90
+206,"Head Hunters",1800.00,4.80,0.90
+207,"Himalaya Liv.52",300.00,3.50,-0.40
+208,"Himalaya Liv.52",600.00,4.20,0.90
+209,"Himalaya Liv.52",1400.00,4.50,0.75
+210,"Himalaya Liv.52",1900.00,4.90,0.85
+211,"Himalaya Liv.52",8000.00,4.60,0.90
+212,"Himalaya Liv.52",8000.00,4.70,0.90
+213,"Himalaya Liv.52",8000.00,4.80,0.85
+214,"Himalaya Liv.52",9000.00,4.70,0.80
+215,"Himalaya Liv.52",9000.00,4.70,0.90
+216,"Himalaya Liv.52",9000.00,4.80,0.90
+217,"Himalaya Liv.52",10000.00,4.80,0.90
+218,"Himalaya Liv.52",10000.00,4.90,0.95
+219,HRX,400.00,4.60,0.50
+220,HRX,700.00,4.10,0.40
+221,HRX,800.00,3.90,0.50
+222,HRX,900.00,4.00,0.50
+223,HRX,900.00,4.20,0.50
+224,HRX,1000.00,4.10,0.60
+225,HRX,1200.00,4.20,0.60
+226,HRX,1300.00,4.30,0.70
+227,HRX,1400.00,4.40,0.70
+228,"Johnson & Johnson",100.00,2.50,-0.70
+229,"Johnson & Johnson",100.00,3.10,-0.30
+230,"Johnson & Johnson",100.00,3.40,-0.60
+231,"Johnson & Johnson",200.00,1.80,-0.90
+232,"Johnson & Johnson",200.00,3.00,-0.40
+233,"Johnson & Johnson",200.00,3.10,-0.40
+234,"Johnson & Johnson",200.00,3.20,-0.10
+235,"Johnson & Johnson",200.00,3.40,-0.20
+236,"Johnson & Johnson",200.00,3.80,0.60
+237,"Johnson & Johnson",200.00,4.00,0.70
+238,"Johnson & Johnson",200.00,4.50,0.70
+239,"Johnson & Johnson",200.00,4.70,0.90
+240,"Johnson & Johnson",300.00,2.50,0.10
+241,"Johnson & Johnson",300.00,3.60,0.30
+242,"Johnson & Johnson",300.00,4.40,0.80
+243,"Johnson & Johnson",400.00,2.00,-0.20
+244,"Johnson & Johnson",400.00,3.00,0.10
+245,"Johnson & Johnson",400.00,3.20,-0.80
+246,"Johnson & Johnson",400.00,3.90,0.40
+247,"Johnson & Johnson",400.00,4.00,0.40
+248,"Johnson & Johnson",400.00,4.20,0.78
+249,"Johnson & Johnson",400.00,4.40,0.80
+250,"Johnson & Johnson",500.00,4.50,0.70
+251,"Johnson & Johnson",500.00,4.70,0.80
+252,"Johnson & Johnson",500.00,4.80,0.90
+253,"Johnson & Johnson",600.00,4.60,0.75
+254,"Johnson & Johnson",600.00,4.80,0.78
+255,"Johnson & Johnson",700.00,4.50,0.70
+256,"Johnson & Johnson",700.00,4.50,0.80
+257,"Johnson & Johnson",800.00,4.60,0.70
+258,"Johnson & Johnson",800.00,4.70,0.80
+259,"Johnson & Johnson",800.00,4.90,0.90
+260,"Johnson & Johnson",900.00,4.60,0.80
+261,"Johnson & Johnson",1000.00,4.70,0.80
+262,"Johnson & Johnson",1000.00,4.80,0.80
+263,"Johnson & Johnson",1200.00,4.80,0.80
+264,"Johnson & Johnson",1300.00,5.00,0.80
+265,"Johnson & Johnson",3000.00,3.90,0.10
+266,"Kama Ayurveda",100.00,2.30,-0.90
+267,"Kama Ayurveda",100.00,3.20,0.10
+268,"Kama Ayurveda",200.00,2.10,-0.80
+269,"Kama Ayurveda",200.00,4.00,0.70
+270,"Kama Ayurveda",200.00,4.10,0.80
+271,"Kama Ayurveda",300.00,2.00,-0.90
+272,"Kama Ayurveda",300.00,2.50,-0.80
+273,"Kama Ayurveda",300.00,4.60,0.70
+274,"Kama Ayurveda",400.00,2.30,-0.90
+275,"Kama Ayurveda",400.00,2.60,-0.60
+276,"Kama Ayurveda",500.00,2.10,-0.90
+277,"Kama Ayurveda",500.00,2.70,-0.70
+278,"Kama Ayurveda",500.00,4.40,0.75
+279,"Kama Ayurveda",600.00,1.80,-1.00
+280,"Kama Ayurveda",600.00,3.60,-0.10
+281,"Kama Ayurveda",700.00,1.50,-1.00
+282,"Kama Ayurveda",700.00,3.70,-0.10
+283,"Kama Ayurveda",700.00,3.80,-0.10
+284,"Kama Ayurveda",800.00,1.60,-1.00
+285,"Kama Ayurveda",800.00,3.80,-0.10
+286,"Kama Ayurveda",800.00,3.90,-0.10
+287,"Kama Ayurveda",800.00,4.00,0.00
+288,"Kama Ayurveda",800.00,4.50,0.70
+289,"Kama Ayurveda",800.00,4.50,0.80
+290,"Kama Ayurveda",800.00,4.60,0.70
+291,"Kama Ayurveda",900.00,4.70,0.80
+292,"Kama Ayurveda",1000.00,4.70,0.90
+293,"Kama Ayurveda",1000.00,4.80,0.90
+294,"Kama Ayurveda",1400.00,4.60,0.88
+295,"Kama Ayurveda",1900.00,4.40,0.75
+296,"Kama Ayurveda",3000.00,4.70,0.68
+297,"Kama Ayurveda",5000.00,4.40,0.20
+298,"Khadi Essentials",200.00,4.60,0.60
+299,"Khadi Essentials",400.00,4.90,0.88
+300,"Khadi Essentials",500.00,3.10,0.40
+301,"Khadi Essentials",500.00,4.90,0.85
+302,"Khadi Essentials",600.00,3.20,-0.10
+303,"Khadi Essentials",600.00,4.70,0.90
+304,"Khadi Essentials",700.00,3.50,-0.30
+305,"Khadi Essentials",700.00,3.60,-0.30
+306,"Khadi Essentials",700.00,4.40,0.70
+307,"Khadi Essentials",700.00,4.80,0.80
+308,"Khadi Essentials",800.00,3.50,-0.20
+309,"Khadi Essentials",800.00,3.70,-0.20
+310,"Khadi Essentials",800.00,3.70,-0.10
+311,"Khadi Essentials",800.00,4.40,-0.20
+312,"Khadi Essentials",800.00,4.50,0.70
+313,"Khadi Essentials",800.00,4.50,0.80
+314,"Khadi Essentials",800.00,4.60,0.80
+315,"Khadi Essentials",800.00,4.70,0.80
+316,"Khadi Essentials",800.00,4.90,0.90
+317,"Khadi Essentials",900.00,4.50,0.80
+318,"Khadi Essentials",1000.00,4.70,0.90
+319,"Khadi Essentials",1100.00,4.50,0.90
+320,"Khadi Essentials",1200.00,4.60,0.90
+321,"Khadi Essentials",1300.00,4.70,0.90
+322,"Lakme Ayurveda",100.00,3.30,-0.30
+323,"Lakme Ayurveda",100.00,4.20,0.80
+324,"Lakme Ayurveda",200.00,3.80,0.10
+325,"Lakme Ayurveda",200.00,3.80,0.40
+326,"Lakme Ayurveda",300.00,3.20,0.10
+327,"Lakme Ayurveda",300.00,4.30,0.72
+328,"Lakme Ayurveda",500.00,2.80,-0.20
+329,"Lakme Ayurveda",500.00,3.90,0.30
+330,"Lakme Ayurveda",500.00,4.00,0.20
+331,"Lakme Ayurveda",500.00,4.00,0.30
+332,"Lakme Ayurveda",500.00,4.10,0.40
+333,"Lakme Ayurveda",600.00,3.20,0.00
+334,"Lakme Ayurveda",600.00,3.60,-0.20
+335,"Lakme Ayurveda",600.00,3.70,0.10
+336,"Lakme Ayurveda",600.00,3.70,0.50
+337,"Lakme Ayurveda",600.00,4.10,0.50
+338,"Lakme Ayurveda",600.00,4.20,0.50
+339,"Lakme Ayurveda",600.00,4.30,0.40
+340,"Lakme Ayurveda",600.00,4.30,0.50
+341,"Lakme Ayurveda",600.00,4.30,0.60
+342,"Lakme Ayurveda",600.00,4.40,0.60
+343,"Lakme Ayurveda",600.00,4.40,0.70
+344,"Lakme Ayurveda",600.00,4.50,0.60
+345,"Lakme Ayurveda",600.00,4.60,0.85
+346,"Lakme Ayurveda",700.00,3.10,-0.40
+347,"Lakme Ayurveda",700.00,4.50,0.75
+348,"Lakme Ayurveda",700.00,4.60,0.80
+349,"Lakme Ayurveda",700.00,4.90,0.90
+350,"Lakme Ayurveda",800.00,2.90,-0.50
+351,"Lakme Ayurveda",800.00,3.70,0.50
+352,"Lakme Ayurveda",800.00,4.40,0.80
+353,"Lakme Ayurveda",800.00,4.50,0.80
+354,"Lakme Ayurveda",800.00,5.00,0.90
+355,"Lakme Ayurveda",900.00,2.80,-0.60
+356,"Lakme Ayurveda",900.00,4.90,0.80
+357,"Lakme Ayurveda",1000.00,2.50,-0.70
+358,"Lakme Ayurveda",1000.00,3.30,-0.20
+359,"Lakme Ayurveda",1200.00,2.40,-0.80
+360,"Lakme Ayurveda",1300.00,2.00,-0.90
+361,"Lakme Ayurveda",1400.00,2.00,-0.90
+362,Lee,100.00,2.90,0.10
+363,Lee,100.00,3.10,-0.10
+364,Lee,200.00,3.20,0.00
+365,Lee,200.00,3.50,0.10
+366,Lee,200.00,4.00,0.70
+367,Lee,300.00,3.20,-0.40
+368,Lee,300.00,3.80,0.10
+369,Lee,300.00,4.30,0.80
+370,Lee,300.00,4.40,0.80
+371,Lee,300.00,4.70,0.80
+372,Lee,300.00,5.00,0.80
+373,Lee,300.00,5.00,0.90
+374,Lee,400.00,2.30,-0.50
+375,Lee,400.00,3.60,0.50
+376,Lee,400.00,4.40,0.90
+377,Lee,500.00,3.80,-0.30
+378,Lee,500.00,4.20,0.90
+379,Lee,500.00,4.70,0.85
+380,Lee,500.00,4.80,0.80
+381,Lee,500.00,4.90,0.80
+382,Lee,500.00,5.00,0.80
+383,Lee,600.00,3.90,0.70
+384,Lee,600.00,4.40,0.90
+385,Lee,600.00,4.50,0.50
+386,Lee,600.00,4.50,0.90
+387,Lee,700.00,4.50,0.90
+388,Lee,700.00,4.80,0.90
+389,Lee,700.00,4.90,0.90
+390,Lee,800.00,4.60,0.90
+391,Lee,800.00,4.80,0.90
+392,Lee,800.00,4.90,0.90
+393,Lee,900.00,3.90,0.90
+394,Lee,900.00,4.40,0.80
+395,Lee,900.00,4.90,0.90
+396,Lee,1800.00,4.70,0.80
+397,Lee,2000.00,3.50,-0.10
+398,"Lee Cooper",190.00,4.40,0.68
+399,"Lee Cooper",200.00,3.90,0.70
+400,"Lee Cooper",300.00,3.00,0.10
+401,"Lee Cooper",300.00,4.50,0.80
+402,"Lee Cooper",400.00,1.80,-0.30
+403,"Lee Cooper",600.00,3.60,-0.40
+404,"Lee Cooper",700.00,4.00,0.50
+405,"Lee Cooper",700.00,4.90,0.88
+406,"Lee Cooper",700.00,4.90,0.90
+407,"Lee Cooper",700.00,5.00,0.90
+408,"Lee Cooper",10000.00,3.70,0.35
+409,"Levis Strauss & Co.",800.00,4.40,0.70
+410,"Levis Strauss & Co.",800.00,4.70,0.40
+411,"Levis Strauss & Co.",800.00,4.70,0.80
+412,"Levis Strauss & Co.",900.00,4.60,0.80
+413,"Levis Strauss & Co.",900.00,4.70,0.80
+414,"Levis Strauss & Co.",900.00,4.80,0.80
+415,"Levis Strauss & Co.",1300.00,4.80,0.90
+416,Libram,100.00,1.10,-0.90
+417,Libram,100.00,1.20,-0.95
+418,Libram,200.00,4.10,0.70
+419,Libram,300.00,1.90,-0.70
+420,Libram,300.00,2.30,-0.80
+421,Libram,300.00,3.10,-0.10
+422,Libram,300.00,3.60,0.55
+423,Libram,300.00,4.40,0.80
+424,Libram,400.00,3.70,0.62
+425,Libram,800.00,4.00,-0.05
+426,Libram,800.00,4.60,0.75
+427,Libram,2000.00,4.50,0.58
+428,Lijoba,100.00,2.00,-0.90
+429,Lijoba,100.00,3.00,-0.50
+430,Lijoba,100.00,3.20,0.10
+431,Lijoba,100.00,3.50,-0.40
+432,Lijoba,100.00,3.50,0.15
+433,Lijoba,200.00,4.30,0.85
+434,Lijoba,600.00,4.00,0.62
+435,Lijoba,3000.00,4.10,0.30
+436,Lijoba,3000.00,4.10,0.40
+437,Lijoba,3000.00,4.20,0.40
+438,Lijoba,3000.00,4.30,0.40
+439,"Manyavar Mohey",100.00,1.20,-0.90
+440,"Manyavar Mohey",100.00,1.30,-0.80
+441,"Manyavar Mohey",100.00,3.40,0.20
+442,"Manyavar Mohey",170.00,3.40,-0.10
+443,"Manyavar Mohey",180.00,4.50,0.92
+444,"Manyavar Mohey",200.00,1.50,-0.85
+445,"Manyavar Mohey",200.00,1.80,-0.85
+446,"Manyavar Mohey",200.00,1.90,-0.80
+447,"Manyavar Mohey",200.00,4.10,0.70
+448,"Manyavar Mohey",300.00,2.00,-0.80
+449,"Manyavar Mohey",300.00,4.80,0.90
+450,"Manyavar Mohey",400.00,2.30,-0.60
+451,"Manyavar Mohey",400.00,3.00,-0.20
+452,"Manyavar Mohey",400.00,3.40,0.10
+453,"Manyavar Mohey",400.00,3.50,0.20
+454,"Manyavar Mohey",400.00,4.50,0.70
+455,"Manyavar Mohey",400.00,4.60,0.70
+456,"Manyavar Mohey",400.00,4.60,0.80
+457,"Manyavar Mohey",400.00,4.70,0.80
+458,"Manyavar Mohey",400.00,5.00,0.90
+459,"Manyavar Mohey",500.00,3.00,0.00
+460,"Manyavar Mohey",500.00,3.20,-0.20
+461,"Manyavar Mohey",500.00,3.50,0.20
+462,"Manyavar Mohey",500.00,4.30,0.72
+463,"Manyavar Mohey",500.00,4.50,0.80
+464,"Manyavar Mohey",600.00,3.00,-0.30
+465,"Manyavar Mohey",600.00,3.90,0.32
+466,"Manyavar Mohey",600.00,4.10,0.20
+467,"Manyavar Mohey",600.00,4.30,0.78
+468,"Manyavar Mohey",600.00,4.50,0.80
+469,"Manyavar Mohey",700.00,4.80,0.90
+470,"Manyavar Mohey",700.00,4.90,0.95
+471,"Manyavar Mohey",700.00,5.00,0.90
+472,"Manyavar Mohey",800.00,2.50,-0.80
+473,"Manyavar Mohey",800.00,4.70,0.90
+474,"Manyavar Mohey",800.00,4.80,0.90
+475,"Manyavar Mohey",800.00,4.90,0.90
+476,"Manyavar Mohey",900.00,4.60,0.72
+477,"Manyavar Mohey",900.00,4.80,0.90
+478,"Manyavar Mohey",900.00,4.90,0.90
+479,"Manyavar Mohey",900.00,5.00,0.90
+480,"Manyavar Mohey",950.00,4.70,0.88
+481,"Manyavar Mohey",1000.00,3.80,0.30
+482,"Manyavar Mohey",1000.00,4.30,0.80
+483,"Manyavar Mohey",1000.00,5.00,0.90
+484,"Manyavar Mohey",1400.00,4.50,0.72
+485,"Manyavar Mohey",10000.00,4.50,0.90
+486,Max,200.00,3.40,0.30
+487,Max,200.00,4.00,0.60
+488,Max,300.00,3.80,0.30
+489,Max,300.00,3.80,0.50
+490,Max,300.00,3.90,0.62
+491,Max,300.00,4.50,0.80
+492,Max,500.00,4.20,0.60
+493,Max,500.00,4.90,0.80
+494,Max,600.00,3.70,0.30
+495,Max,600.00,4.00,0.70
+496,Max,600.00,4.50,0.60
+497,Max,700.00,3.60,0.40
+498,Max,700.00,4.40,0.60
+499,Max,700.00,4.60,0.70
+500,Max,800.00,3.00,-0.40
+501,Max,800.00,3.50,0.40
+502,Max,800.00,3.80,0.20
+503,Max,900.00,3.60,0.50
+504,Max,1000.00,3.10,-0.50
+505,Max,1000.00,3.80,0.50
+506,Max,1100.00,3.50,0.50
+507,Max,1200.00,3.40,-0.20
+508,Max,1300.00,3.50,-0.20
+509,Max,1300.00,3.60,-0.20
+510,Max,1300.00,3.80,-0.20
+511,Max,1300.00,3.90,-0.10
+512,Max,1800.00,4.50,0.80
+513,Moov,90.00,4.60,0.85
+514,Moov,500.00,2.70,-0.30
+515,Moov,500.00,3.90,0.30
+516,Moov,700.00,3.70,-0.15
+517,Moov,700.00,4.30,0.40
+518,Moov,700.00,4.80,0.90
+519,Moov,800.00,4.50,0.85
+520,Moov,800.00,4.70,0.90
+521,Moov,800.00,4.80,0.90
+522,Moov,900.00,4.60,0.70
+523,Moov,4500.00,4.00,0.45
+524,Mothercare,300.00,3.30,0.10
+525,Mothercare,400.00,3.20,0.20
+526,Mothercare,500.00,3.10,0.20
+527,Mothercare,500.00,3.50,0.10
+528,Mothercare,600.00,2.90,0.20
+529,Mothercare,700.00,2.90,0.20
+530,Mothercare,800.00,3.00,0.20
+531,Mothercare,900.00,2.50,0.20
+532,Mothercare,900.00,3.40,-0.10
+533,Parachute,700.00,4.70,0.90
+534,"Patanjali Ayurved (Health Care)",200.00,2.90,-0.70
+535,"Patanjali Ayurved (Health Care)",300.00,2.60,-0.90
+536,"Patanjali Ayurved (Health Care)",300.00,2.80,-0.80
+537,"Patanjali Ayurved (Health Care)",300.00,3.00,-0.60
+538,"Patanjali Ayurved (Health Care)",300.00,3.10,0.10
+539,"Patanjali Ayurved (Health Care)",300.00,3.80,0.60
+540,"Patanjali Ayurved (Health Care)",400.00,2.30,-0.90
+541,"Patanjali Ayurved (Health Care)",400.00,3.30,-0.40
+542,"Patanjali Ayurved (Health Care)",400.00,4.40,0.72
+543,"Patanjali Ayurved (Health Care)",500.00,2.10,-0.90
+544,"Patanjali Ayurved (Health Care)",500.00,3.40,0.10
+545,"Patanjali Ayurved (Health Care)",500.00,4.70,0.90
+546,"Patanjali Ayurved (Health Care)",600.00,2.00,-0.90
+547,"Patanjali Ayurved (Health Care)",600.00,3.00,-0.40
+548,"Patanjali Ayurved (Health Care)",700.00,2.00,-0.90
+549,"Patanjali Ayurved (Health Care)",700.00,4.40,0.70
+550,"Patanjali Ayurved (Health Care)",700.00,4.60,0.60
+551,"Patanjali Ayurved (Health Care)",700.00,4.80,0.90
+552,"Patanjali Ayurved (Health Care)",800.00,3.90,0.55
+553,"Patanjali Ayurved (Health Care)",1000.00,3.60,0.20
+554,"Patanjali Ayurved (Health Care)",1000.00,4.30,0.45
+555,"Patanjali Ayurved (Health Care)",1000.00,4.80,0.82
+556,"Patanjali Ayurved (Health Care)",1900.00,3.80,0.58
+557,"Patanjali Ayurved (Health Care)",2500.00,4.70,0.82
+558,"Patanjali Ayurved (Health Care)",4000.00,4.70,0.70
+559,"Patanjali Ayurved (Health Care)",5000.00,4.70,0.70
+560,"Patanjali Ayurved (Health Care)",5000.00,4.70,0.75
+561,"Patanjali Ayurved (Health Care)",5000.00,4.70,0.80
+562,"Patanjali Ayurved (Health Care)",5000.00,4.80,0.80
+563,"Patanjali Ayurved (Health Care)",6000.00,4.70,0.75
+564,"Patanjali Ayurved (Health Care)",6000.00,4.70,0.80
+565,"Patanjali Ayurved (Health Care)",6000.00,4.80,0.80
+566,"Patanjali Ayurved (Health Care)",6000.00,4.80,0.85
+567,"Patanjali Ayurved (Health Care)",7000.00,4.80,0.90
+568,"Pepe Jeans London",200.00,3.90,0.50
+569,"Pepe Jeans London",200.00,4.00,0.70
+570,"Pepe Jeans London",300.00,4.30,0.80
+571,"Pepe Jeans London",400.00,2.80,-0.50
+572,"Pepe Jeans London",400.00,3.60,0.20
+573,"Pepe Jeans London",400.00,4.70,0.80
+574,"Pepe Jeans London",500.00,3.70,0.40
+575,"Pepe Jeans London",600.00,3.40,0.45
+576,"Pepe Jeans London",600.00,3.50,0.40
+577,"Pepe Jeans London",700.00,3.60,-0.10
+578,"Pepe Jeans London",700.00,3.70,0.20
+579,"Pepe Jeans London",700.00,4.50,0.62
+580,"Pepe Jeans London",700.00,4.80,0.70
+581,"Pepe Jeans London",700.00,4.80,0.90
+582,"Pepe Jeans London",700.00,4.90,0.90
+583,"Pepe Jeans London",800.00,4.60,0.70
+584,"Pepe Jeans London",800.00,4.70,0.68
+585,"Pepe Jeans London",800.00,4.80,0.90
+586,"Pepe Jeans London",800.00,4.90,0.90
+587,"Pepe Jeans London",800.00,5.00,0.90
+588,"Pepe Jeans London",900.00,3.40,0.30
+589,"Pepe Jeans London",900.00,4.50,0.80
+590,"Pepe Jeans London",900.00,4.80,0.82
+591,"Pepe Jeans London",1000.00,3.30,-0.20
+592,"Pepe Jeans London",1000.00,3.60,-0.20
+593,"Pepe Jeans London",10000.00,4.40,0.55
+594,Pepperfry,200.00,4.00,0.60
+595,Pepperfry,300.00,4.10,0.70
+596,Pepperfry,300.00,4.30,0.80
+597,Pepperfry,300.00,4.50,0.80
+598,Pepperfry,400.00,3.70,0.00
+599,Pepperfry,400.00,4.30,0.70
+600,Pepperfry,500.00,3.40,-0.30
+601,Pepperfry,500.00,4.30,0.75
+602,Pepperfry,600.00,3.10,0.00
+603,Pepperfry,600.00,4.10,0.70
+604,Pepperfry,700.00,4.90,0.90
+605,Pepperfry,700.00,5.00,0.90
+606,Pepperfry,800.00,3.80,0.60
+607,Pepperfry,800.00,4.00,0.30
+608,Pepperfry,800.00,4.50,0.80
+609,Pepperfry,800.00,4.70,0.90
+610,Pepperfry,800.00,4.80,0.80
+611,Pepperfry,800.00,4.80,0.90
+612,Pepperfry,800.00,4.90,0.92
+613,Pepperfry,900.00,3.20,-0.40
+614,Pepperfry,900.00,3.20,-0.30
+615,Pepperfry,900.00,3.30,0.30
+616,Pepperfry,900.00,3.70,0.20
+617,Pepperfry,900.00,4.80,0.90
+618,Pepperfry,900.00,4.80,0.92
+619,Pepperfry,900.00,4.90,0.90
+620,Pepperfry,1000.00,3.10,-0.30
+621,Pepperfry,1000.00,4.90,0.90
+622,Pepperfry,1100.00,3.00,-0.50
+623,Pepperfry,1100.00,3.30,-0.40
+624,Pepperfry,1100.00,3.40,-0.40
+625,Pepperfry,1100.00,3.60,-0.30
+626,Pepperfry,1100.00,4.80,0.90
+627,Pepperfry,1200.00,3.10,-0.40
+628,Pepperfry,1200.00,3.20,-0.40
+629,Pepperfry,1200.00,3.40,-0.30
+630,Pepperfry,1200.00,3.50,-0.30
+631,Pepperfry,1200.00,3.80,-0.30
+632,Pepperfry,1200.00,3.90,-0.30
+633,Pepperfry,1200.00,4.80,0.90
+634,Pepperfry,1300.00,4.80,0.90
+635,Pepperfry,1400.00,4.90,0.90
+636,Pepperfry,1500.00,4.90,0.90
+637,Pepperfry,1800.00,4.70,0.82
+638,Pepperfry,4500.00,3.90,0.60
+639,PUMA,100.00,2.20,-0.90
+640,PUMA,200.00,2.00,-0.90
+641,PUMA,200.00,2.30,-0.80
+642,PUMA,200.00,4.10,0.70
+643,PUMA,200.00,4.30,0.70
+644,PUMA,200.00,4.50,0.80
+645,PUMA,300.00,1.80,-1.00
+646,PUMA,300.00,4.60,0.60
+647,PUMA,400.00,1.60,-1.00
+648,PUMA,400.00,3.20,0.10
+649,PUMA,500.00,1.30,-1.00
+650,PUMA,500.00,4.70,0.78
+651,PUMA,600.00,2.10,-1.00
+652,PUMA,700.00,2.00,-1.00
+653,PUMA,700.00,4.80,0.90
+654,PUMA,700.00,4.90,0.90
+655,PUMA,900.00,4.60,0.82
+656,PUMA,2000.00,4.30,0.65
+657,PUMA,2000.00,4.70,0.85
+658,SleepyCat,300.00,4.40,0.40
+659,SleepyCat,600.00,4.00,0.60
+660,SleepyCat,700.00,3.50,0.40
+661,SleepyCat,700.00,4.80,0.90
+662,SleepyCat,800.00,4.70,0.80
+663,SleepyCat,800.00,4.70,0.90
+664,SleepyCat,900.00,3.10,-0.10
+665,SleepyCat,900.00,3.50,0.70
+666,SleepyCat,900.00,4.10,0.60
+667,SleepyCat,1000.00,3.80,0.40
+668,SleepyCat,1000.00,4.40,0.75
+669,SleepyCat,1000.00,4.50,0.80
+670,SleepyCat,1000.00,4.80,0.90
+671,SleepyCat,1100.00,4.80,0.90
+672,SleepyCat,1300.00,4.90,0.90
+673,SleepyCat,1500.00,4.90,0.90
+674,SleepyCat,1600.00,4.90,0.90
+675,SleepyCat,1700.00,5.00,0.90
+676,SleepyCat,1800.00,5.00,0.90
+677,Spyker,600.00,4.90,0.90
+678,Spyker,900.00,4.90,0.90
+679,Spyker,1000.00,4.90,0.90
+680,Spyker,1200.00,4.80,0.90
+681,Spyker,1400.00,4.90,0.90
+682,Spyker,1500.00,4.90,0.90
+683,Spyker,1600.00,4.90,0.90
+684,Spyker,1700.00,5.00,0.90
+685,Stayfree,200.00,2.80,-0.40
+686,Stayfree,200.00,2.80,-0.30
+687,Stayfree,200.00,2.90,-0.40
+688,Stayfree,200.00,2.90,-0.30
+689,Stayfree,200.00,3.00,-0.30
+690,Stayfree,200.00,3.00,-0.20
+691,Stayfree,200.00,3.10,-0.20
+692,Stayfree,200.00,3.10,-0.10
+693,Stayfree,300.00,3.00,-0.20
+694,Stayfree,300.00,3.10,-0.20
+695,Streax,100.00,2.40,-0.70
+696,Streax,100.00,3.00,-0.50
+697,Streax,100.00,3.10,-0.40
+698,Streax,100.00,3.40,-0.30
+699,Streax,100.00,4.60,0.90
+700,Streax,200.00,2.10,-0.80
+701,Streax,200.00,2.90,-0.50
+702,Streax,300.00,3.50,0.50
+703,Streax,300.00,4.30,0.70
+704,Streax,400.00,3.80,0.50
+705,Streax,500.00,3.00,-0.50
+706,Streax,800.00,3.70,0.55
+707,Streax,2000.00,3.70,0.10
+708,Streax,10000.00,4.80,1.00
+709,Streax,10000.00,4.90,1.00
+710,"Sugar Cosmetics",100.00,3.80,-0.20
+711,"Sugar Cosmetics",200.00,1.80,-0.90
+712,"Sugar Cosmetics",200.00,3.80,0.10
+713,"Sugar Cosmetics",200.00,3.80,0.60
+714,"Sugar Cosmetics",200.00,3.90,0.50
+715,"Sugar Cosmetics",200.00,4.00,0.60
+716,"Sugar Cosmetics",200.00,4.00,0.70
+717,"Sugar Cosmetics",200.00,4.10,0.70
+718,"Sugar Cosmetics",200.00,4.20,0.70
+719,"Sugar Cosmetics",200.00,4.30,0.80
+720,"Sugar Cosmetics",300.00,3.80,0.45
+721,"Sugar Cosmetics",300.00,3.90,0.20
+722,"Sugar Cosmetics",400.00,2.00,-0.30
+723,"Sugar Cosmetics",400.00,3.90,0.30
+724,"Sugar Cosmetics",500.00,4.00,0.30
+725,"Sugar Cosmetics",600.00,4.00,0.40
+726,"Sugar Cosmetics",600.00,4.50,0.80
+727,"Sugar Cosmetics",600.00,4.90,0.92
+728,"Sugar Cosmetics",700.00,4.10,0.50
+729,"Sugar Cosmetics",800.00,3.70,0.30
+730,"Sugar Cosmetics",800.00,4.10,0.50
+731,"Sugar Cosmetics",900.00,4.10,0.60
+732,"Sugar Cosmetics",1400.00,4.60,0.82
+733,"The Moms Co.",100.00,2.80,-0.60
+734,"The Moms Co.",200.00,2.70,0.00
+735,"The Moms Co.",300.00,4.60,0.30
+736,"The Moms Co.",500.00,4.60,0.40
+737,"The Moms Co.",600.00,4.70,0.40
+738,"The Moms Co.",700.00,4.80,0.50
+739,"The Moms Co.",800.00,2.80,-0.40
+740,"The Moms Co.",800.00,2.90,-0.40
+741,"The Moms Co.",800.00,3.50,0.15
+742,"The Moms Co.",800.00,3.50,0.40
+743,"The Moms Co.",800.00,4.90,0.60
+744,"The Moms Co.",900.00,2.80,-0.50
+745,"The Moms Co.",900.00,4.90,0.60
+746,"The Moms Co.",1000.00,2.70,-0.50
+747,"The Moms Co.",1000.00,4.90,0.70
+748,"The Moms Co.",1100.00,2.90,-0.40
+749,"The Moms Co.",1100.00,3.00,-0.40
+750,"The Moms Co.",1100.00,3.10,-0.40
+751,"U.S. Polo Assn. Women",200.00,3.00,-0.30
+752,"U.S. Polo Assn. Women",700.00,3.70,0.60
+753,"U.S. Polo Assn. Women",700.00,4.70,0.85
+754,"U.S. Polo Assn. Women",700.00,4.90,0.90
+755,"Urban Ladder",400.00,3.70,0.50
+756,"Urban Ladder",400.00,4.60,0.70
+757,"Urban Ladder",600.00,3.70,0.40
+758,"Urban Ladder",700.00,3.70,0.40
+759,"Urban Ladder",700.00,4.10,0.70
+760,"Urban Ladder",800.00,3.60,0.60
+761,"Urban Ladder",800.00,4.70,0.85
+762,"Urban Ladder",900.00,3.40,0.60
+763,"Urban Ladder",900.00,4.80,0.90
+764,"Urban Ladder",1000.00,3.10,0.20
+765,"Urban Ladder",1000.00,3.50,0.70
+766,"Urban Ladder",1000.00,4.30,0.10
+767,"Urban Ladder",1100.00,3.80,0.70
+768,"Urban Ladder",1200.00,4.00,0.70
+769,"Urban Ladder",1400.00,4.60,0.70
+770,"Urban Ladder",1600.00,4.70,0.70
+771,"Urban Ladder",9000.00,4.60,0.85
+772,"Urban Ladder",9000.00,4.80,0.90
+773,"Vero Moda",700.00,4.00,0.50
+774,Wakefit,200.00,3.90,0.60
+775,Wakefit,200.00,4.00,0.60
+776,Wakefit,300.00,3.90,0.60
+777,Wakefit,300.00,4.10,0.72
+778,Wakefit,300.00,4.60,0.85
+779,Wakefit,400.00,3.90,0.70
+780,Wakefit,400.00,4.80,0.80
+781,Wakefit,500.00,2.70,-0.50
+782,Wakefit,500.00,3.80,0.70
+783,Wakefit,500.00,4.90,0.90
+784,Wakefit,500.00,5.00,0.90
+785,Wakefit,600.00,2.20,-0.70
+786,Wakefit,600.00,2.20,-0.60
+787,Wakefit,600.00,2.30,-0.60
+788,Wakefit,600.00,3.90,0.70
+789,Wakefit,600.00,4.50,0.80
+790,Wakefit,600.00,4.60,0.80
+791,Wakefit,700.00,2.30,-0.50
+792,Wakefit,700.00,2.40,-0.50
+793,Wakefit,700.00,2.50,-0.10
+794,Wakefit,700.00,2.80,-0.10
+795,Wakefit,700.00,3.90,0.70
+796,Wakefit,700.00,4.30,0.90
+797,Wakefit,700.00,5.00,0.90
+798,Wakefit,800.00,2.50,-0.50
+799,Wakefit,800.00,2.60,-0.50
+800,Wakefit,800.00,2.80,-0.40
+801,Wakefit,800.00,2.90,-0.40
+802,Wakefit,800.00,3.90,0.10
+803,Wakefit,800.00,3.90,0.70
+804,Wakefit,800.00,4.80,0.90
+805,Wakefit,900.00,4.30,0.80
+806,Wakefit,900.00,4.70,0.90
+807,Wakefit,900.00,5.00,0.90
+808,Wakefit,2800.00,4.40,0.72
+809,Whisper,100.00,2.60,-0.70
+810,Whisper,200.00,2.80,-0.60
+811,Whisper,400.00,3.90,0.55
+812,Whisper,800.00,4.30,0.65
+813,"Wild Stone",600.00,3.30,0.00
+814,"Wild Stone",600.00,3.70,0.50
+815,"Wild Stone",700.00,4.30,0.70
+816,Wildcraft,300.00,3.00,-0.20
+817,Wildcraft,300.00,3.20,-0.20
+818,Wildcraft,300.00,3.40,-0.10
+819,Wildcraft,300.00,3.50,0.25
+820,Wildcraft,300.00,4.00,0.30
+821,Wildcraft,300.00,4.50,0.80
+822,Wildcraft,400.00,3.10,-0.10
+823,Wildcraft,400.00,3.20,0.00
+824,Wildcraft,400.00,3.30,-0.10
+825,Wildcraft,400.00,3.30,0.10
+826,Wildcraft,400.00,3.40,0.20
+827,Wildcraft,400.00,4.40,0.70
+828,Wildcraft,400.00,4.70,0.80
+829,Wildcraft,500.00,2.60,-0.10
+830,Wildcraft,500.00,2.80,-0.10
+831,Wildcraft,500.00,3.10,0.00
+832,Wildcraft,500.00,3.50,0.50
+833,Wildcraft,500.00,4.30,0.70
+834,Wildcraft,500.00,4.90,0.85
+835,Wildcraft,600.00,3.10,0.00
+836,Wildcraft,600.00,4.20,0.80
+837,Wildcraft,700.00,2.00,-0.10
+838,Wildcraft,700.00,4.20,-0.10
+839,Wildcraft,700.00,4.30,0.60
+840,Wildcraft,700.00,4.30,0.80
+841,Wildcraft,700.00,4.60,0.80
+842,Wildcraft,700.00,4.80,0.90
+843,Wildcraft,700.00,4.90,0.88
+844,Wildcraft,700.00,5.00,0.90
+845,Wildcraft,750.00,4.00,0.30
+846,Wildcraft,800.00,3.50,-0.30
+847,Wildcraft,800.00,4.20,0.45
+848,Wildcraft,800.00,4.20,0.70
+849,Wildcraft,800.00,4.30,0.80
+850,Wildcraft,800.00,4.40,0.78
+851,Wildcraft,800.00,4.40,0.80
+852,Wildcraft,800.00,4.70,0.80
+853,Wildcraft,800.00,4.80,0.80
+854,Wildcraft,800.00,4.80,0.90
+855,Wildcraft,800.00,4.90,0.80
+856,Wildcraft,800.00,4.90,0.90
+857,Wildcraft,800.00,5.00,0.90
+858,Wildcraft,900.00,3.40,0.40
+859,Wildcraft,900.00,4.20,0.80
+860,Wildcraft,900.00,4.40,0.80
+861,Wildcraft,900.00,4.50,0.80
+862,Wildcraft,900.00,4.50,0.85
+863,Wildcraft,900.00,4.60,0.80
+864,Wildcraft,900.00,4.70,0.80
+865,Wildcraft,900.00,4.80,0.80
+866,Wildcraft,900.00,4.80,0.90
+867,Wildcraft,900.00,4.90,0.90
+868,Wildcraft,900.00,5.00,0.90
+869,Wildcraft,1000.00,4.60,0.80
+870,Wildcraft,1000.00,5.00,0.90
+871,Wildcraft,2700.00,4.80,0.92
+872,Wildcraft,6000.00,4.20,0.60
+873,Zandu,550.00,3.50,0.35
